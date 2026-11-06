@@ -12,21 +12,25 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/hrishikesh-shetty-5976342a9/" target="_blank">
+    <a href="https://www.linkedin.com/in/hrishikesh-shetty-86779o/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/Hrishi9o/Resume/blob/main/Hrishi.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume_PDF-00B4D8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+    <a href="https://resume-hrishi9os-projects.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio_Website-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
     </a>
     &nbsp;
-    <a href="mailto:hrishikeshshetty9o@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://github.com/Hrishi9o/Resume/blob/main/Hrishi.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume_PDF-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
     </a>
     &nbsp;
     <a href="https://github.com/Hrishi9o">
       <img src="https://komarev.com/ghpvc/?username=Hrishi9o&label=Views&color=0077b6&style=for-the-badge" alt="Views" />
     </a>
+  </p>
+
+  <p>
+    📫 <b>Direct Contact / Email:</b> <code>hrishikeshshetty9o@gmail.com</code>
   </p>
 
 </div>
@@ -60,30 +64,35 @@
 
 ### 💻 Featured Projects
 
+#### 🌐 [Personal Portfolio & Interactive Resume](https://github.com/Hrishi9o/Resume)
+Interactive portfolio website built with clean JavaScript and CSS motion design. Includes technical skills showcase, projects gallery, and downloadable resume.
+- 🔗 **Links:** [🚀 Live Website (Vercel)](https://resume-hrishi9os-projects.vercel.app) • [📄 View Resume PDF](https://github.com/Hrishi9o/Resume/blob/main/Hrishi.pdf) • [📁 Source Code](https://github.com/Hrishi9o/Resume)
+- 🛠️ **Tech:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Canvas API`
+
+#### ☕ [Get-Me-Chai](https://github.com/Hrishi9o/Get-Me-Chai)
+Creator patronage and donation web application allowing supporters to buy chai for creators, manage donations, and display supporter messages with payment workflows.
+- 🔗 **Links:** [🚀 Live Web App (Vercel)](https://get-me-chai-hrishi9os-projects.vercel.app) • [📁 Source Code](https://github.com/Hrishi9o/Get-Me-Chai)
+- 🛠️ **Tech:** `Next.js 14`, `React`, `MongoDB`, `NextAuth`, `Tailwind CSS`
+
+#### 💧 [Aquajaal POS](https://github.com/Hrishi9o/Aquajaal)
+Production-grade, offline-first Point-of-Sale (POS) and inventory counter app for packaged drinking water distribution with fast local persistence and turnkey deployment configs.
+- 🔗 **Links:** [🚀 Live Web App (Vercel)](https://aquajaal-hrishi9os-projects.vercel.app) • [📲 Download Android APK](https://github.com/Hrishi9o/Aquajaal/blob/main/Aquajaal-Counter-POS.apk) • [📁 Source Code](https://github.com/Hrishi9o/Aquajaal)
+- 🛠️ **Tech:** `Flutter`, `Dart`, `Hive (NoSQL)`, `PWA`, `Android APK`
+
 #### 🎵 [Spotify Clone](https://github.com/Hrishi9o/Spotify)
 Responsive music streaming web app replicating Spotify. Features real-time audio playback controls, seekbar synchronization, song playlists, and mobile dark mode.
-- 🔗 **Links:** [🌐 Live Demo](https://spotify-pi-six-14.vercel.app/) • [📁 Source Code](https://github.com/Hrishi9o/Spotify)
+- 🔗 **Links:** [🚀 Live Demo (Vercel)](https://spotify-pi-six-14.vercel.app/) • [📁 Source Code](https://github.com/Hrishi9o/Spotify)
 - 🛠️ **Tech:** `JavaScript (ES6+)`, `HTML5`, `CSS3`
 
 #### 🐦 [X / Twitter Clone](https://github.com/Hrishi9o/Twitter)
 Pixel-perfect frontend recreation of Twitter / X web UI. Features responsive timeline layouts, navigation bar, trending widgets, and mobile-first utility styling.
-- 🔗 **Links:** [🌐 Live Demo](https://twitter-red.vercel.app/) • [📁 Source Code](https://github.com/Hrishi9o/Twitter)
+- 🔗 **Links:** [🚀 Live Demo (Vercel)](https://twitter-red.vercel.app/) • [📁 Source Code](https://github.com/Hrishi9o/Twitter)
 - 🛠️ **Tech:** `Tailwind CSS`, `HTML5`, `Responsive Design`
 
 #### 📱 [Task Buddy](https://github.com/Hrishi9o/Todo_List)
 Cross-platform mobile productivity suite with category management, local database caching, secure OTP authentication, and dynamic theme switching.
 - 🔗 **Links:** [📁 Source Code](https://github.com/Hrishi9o/Todo_List)
 - 🛠️ **Tech:** `Flutter`, `Dart`, `Shared Preferences`, `State Management`
-
-#### 💧 [Aquajaal POS](https://github.com/Hrishi9o/Aquajaal)
-Production-grade, offline-first Point-of-Sale (POS) and inventory counter app for packaged drinking water distribution with fast local persistence and turnkey deployment configs.
-- 🔗 **Links:** [📁 Source Code](https://github.com/Hrishi9o/Aquajaal) • [📲 Download Android APK](https://github.com/Hrishi9o/Aquajaal/blob/main/Aquajaal-Counter-POS.apk)
-- 🛠️ **Tech:** `Flutter`, `Dart`, `Hive (NoSQL)`, `PWA`, `Android APK`
-
-#### ☕ [Get-Me-Chai](https://github.com/Hrishi9o/Get-Me-Chai)
-Creator patronage and donation web application allowing supporters to buy chai for creators, manage donations, and display supporter messages with payment workflows.
-- 🔗 **Links:** [📁 Source Code](https://github.com/Hrishi9o/Get-Me-Chai)
-- 🛠️ **Tech:** `Next.js 14`, `React`, `MongoDB`, `NextAuth`, `Tailwind CSS`
 
 ---
 
