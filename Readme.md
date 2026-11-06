@@ -71,7 +71,7 @@ Interactive portfolio website built with clean JavaScript and CSS motion design.
 
 #### ☕ [Get-Me-Chai](https://github.com/Hrishi9o/Get-Me-Chai)
 Creator patronage and donation web application allowing supporters to buy chai for creators, manage donations, and display supporter messages with payment workflows.
-- 🔗 **Links:** [🚀 Live Web App (Vercel)](https://get-me-chai-hrishi9os-projects.vercel.app) • [📁 Source Code](https://github.com/Hrishi9o/Get-Me-Chai)
+- 🔗 **Links:** [🚀 Live Web App (Vercel)](https://get-me-chai-tawny-five.vercel.app/) • [📁 Source Code](https://github.com/Hrishi9o/Get-Me-Chai)
 - 🛠️ **Tech:** `Next.js 14`, `React`, `MongoDB`, `NextAuth`, `Tailwind CSS`
 
 #### 💧 [Aquajaal POS](https://github.com/Hrishi9o/Aquajaal)
