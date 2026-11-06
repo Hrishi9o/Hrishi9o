@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Hrishikesh S Shetty 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Digital+Engineer+%26+Software+Developer;Information+Science+%40+Ramaiah+Institute+of+Tech;Building+Scalable+Web+%26+Mobile+Applications;Flutter+%7C+Java+%7C+JavaScript+%7C+Tailwind+CSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Digital+Engineer+%26+Software+Developer;Info+Science+%40+Ramaiah+Institute+of+Tech;Building+Scalable+Web+%26+Mobile+Applications;Flutter+%7C+Java+%7C+JavaScript+%7C+Tailwind+CSS" alt="Typing SVG" />
   </a>
 
   <p>
